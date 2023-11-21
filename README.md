@@ -3,7 +3,7 @@ ML Ops training
 
 Creating ML project for classification 
 
-Project Organization
+Project Organization updated in development
 ------------
 
     ├── LICENSE
